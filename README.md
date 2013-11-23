@@ -32,4 +32,5 @@ understand following command or use them at least one:
 //NEVER DO THE FOLLOWING: git push origin master
 //MASTER BRANCH USEUALLY WILL BE THE PRODUCT STABLE VERSION
 //USE THE COMMOND 5 TO CREAT YOUR OWN BRANCH FIRST
+
 6. git push origin HEAD 
